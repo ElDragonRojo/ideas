@@ -54,11 +54,11 @@ You can also charge for the priviledge of sharing links, pictures, audio, movies
 Having to pay for these things pays for the bandwidth for hosting them, and it makes it much less likely that people will post crap, so the people consuming the media for free will enjoy it more.
 
 
-## Other ideas
+## Lists
 
-If you really want to spice things up, require that the lists be ordered, so you have to actually rank people. If you want to make the list unordered, to spare yourself the headache, you have to pay. If you want to try this without ruining thing, you can make it a feature: ordered lists, as a sharable asset, starting with the five favorite people list.
+If you really want to spice things up, require that the lists be ordered, so you have to actually rank people. If you want to make the list unordered, to spare yourself the headache, you have to pay. If you think this would be too awkward in the main list, you can also just charge for other unordered lists, which you would want as an extension of using the free ordered lists, such as the infamous ten favorite people list.
 
-It's not necessarily a bad idea to let people know who the most important people are in your life. If something where to happen to you, it would be very important to have an easily accessible list of your most important people to notify. You can have some circles and sublists, such as:
+Scandal aside, it's not necessarily a bad idea to let people know who the most important people in your life are. If something were to happen to you, it would be very important to have an easily accessible list of your most important people to notify. You can have some circles and sublists, such as:
 
 * People to contact in case of emergency
 * People to contact in case I am hopitalized
@@ -66,3 +66,6 @@ It's not necessarily a bad idea to let people know who the most important people
 * Top Performers
 * Shit List
 
+You could do something like limit the size of the lists to 10 people, except for the 150 person list, the aquaintence cloud, and the special lists you paid for.
+
+Search results as smart lists could work the same way. Top 10 is free. To see them all, you have to pay. That money could be used to create curated lists that are worth paying for.
