@@ -6,7 +6,7 @@ One complaint with traditional social networks is that you have so many "friends
 
 Twitter used to be something that was limited, so it was a useful way to communicate with your friends, unlike the noisy, data-heavy Facebook, which was more like a scrapbook you shared with your parents, and former and current classmates and coworkers.
 
-The success of Twitter was limiting what you could say in a message to 140 characters. As @ev said:
+The genius of Twitter was limiting what you could say in a message to 140 characters. As @ev said:
 
 > You can change the world with 140 characters.
 
