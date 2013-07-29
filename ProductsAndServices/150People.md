@@ -10,18 +10,20 @@ The genius of Twitter was limiting what you could say in a message to 140 charac
 
 > You can change the world with 140 characters.
 
-One of the places Twitter fails is in not limiting the number of people you can follow.
+One of the ways you could improve Twitter further is to limit the number of people you can follow—preferably in a way that is purposeful and monetized sanely, right from the start.
 
 
 ## Theory
 
-A social network limited to 150 people would force you to pick the people you really care about. Anybody else would have to be a moved into a larger list of acquaintances that is more of a cloud for trends.
+A social network limited to 150 people would force you to pick the people you really care about. Anybody else would have to be moved into a larger list of acquaintances that is more of a cloud for trends.
+
 
 ## Social
 
-What makes this social network interesting is the inevitable scandal that results from having you real friends known. 150 people is a large enough list that it won't mess with your core group, but when it comes to Internet friends, there is a lot of potential for drama.
+What makes this social network interesting is the inevitable scandal that results from having to admit who your real friends are. 150 people is a large enough list that it won't mess with your core group, but when it comes to Internet friends, there is a lot of potential for drama.
 
-Leverage this by having each profile contain a detailed description of who this person is, and how you know them. These intimate profiles are only possible because this will become an intensely curated list.
+Leverage this by having each profile contain a detailed description of who this person is, and how you know them. These intimate profiles are made possible by the fact this will become an intensely curated list.
+
 
 ## Implementation
 
@@ -33,6 +35,7 @@ You can trivially prototype this anywhere you can make a list of people, such as
 * A group in Address Book
 * The spreadsheet of your choice
 * Names on a piece of paper
+
 
 ## Monetization
 
@@ -49,6 +52,7 @@ Like the GitHub model, you can purchase private profiles, as well as features li
 You can also charge for the priviledge of sharing links, pictures, audio, movies, and other media. You do not have to pay for viewing these things: only for posting them.
 
 Having to pay for these things pays for the bandwidth for hosting them, and it makes it much less likely that people will post crap, so the people consuming the media for free will enjoy it more.
+
 
 ## Other ideas
 
