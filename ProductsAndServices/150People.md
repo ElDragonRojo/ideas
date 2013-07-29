@@ -27,7 +27,7 @@ Leverage this by having each profile contain a detailed description of who this 
 
 ## Implementation
 
-I would personally build this as an app on top of ADN then make versions for other existing social networks. 
+I would personally implement this as a feature of [Lemacs](https://github.com/lemurs/Lemacs), but you might build this as an app on top of ADN, then make versions for other existing social networks. That way you don't need to raise money for infrastructure and can spend the money on great people and [stickers](http://www.stickermule.com/unlock?ref_id=7501079601).
 
 You can trivially prototype this anywhere you can make a list of people, such as:
 
