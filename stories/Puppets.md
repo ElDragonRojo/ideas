@@ -3,7 +3,7 @@ _A conspiracy thriller_
 
 ## Summary
 
-By fighting her fate, she played into their hands. The side of Oedipus people forget, retold for the Information Age.
+By fighting her fate, she played into their hands. The side of _Oedipus_ people forget, retold for the Information Age.
 
 ### Premise
 
