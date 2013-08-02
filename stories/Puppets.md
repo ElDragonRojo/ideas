@@ -7,9 +7,9 @@ By fighting her fate, she played into their hands. The side of Oedipus people fo
 
 ### Premise
 
-Spy is a brilliant but troubled engineer, half Einstein, half Van Gogh. Hers is a rock star's story, the meteoric and often messy rise of the artist, but in the modern day arena of technology startups on the west coast of the United States.
+Spy is a brilliant but troubled engineer, half Einstein, half Van Gogh. Hers is a rock star's story, the meteoric and often messy rise of the artist, but in the modern day arena of technology startups on the US West Coast.
 
-Over the course of her typically short career, she creates world-changing technology in the name of peace and love, but her anti-authoritarian instincts and strong moral compass conspire to keep her moving, seeding technology projects all over the world.
+Over the course of her short, but intense, career, she has created life-changing technology, in the name of making the world a better place—but her anti-authoritarian instincts and strong moral compass conspire to keep her from getting too far or staying too comfortable, moving along her chaotic path, pollinating technology projects all over the world.
 
 
 ## Story
