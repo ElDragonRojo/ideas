@@ -32,9 +32,9 @@ She takes the project that she is the absolute proudest of and makes it open sou
 
 Then the stampede of trolls start, and she is trampled under their criticism. She knows she's not supposed to smoke weed, because it makes her hear voices, but it also calms her down, so in her agony she rolls a joint and goes outside to smoke it.
 
-When she comes back, the words on the screen become auditory hallucinations, and she begins to argue with an angry crowd.  She starts having a good time mocking the voices. Then, while arguing against the loudest voice, she stops and says, wait, you're right. They end up collaborating remotely on some breakthrough feature, and she warms to the value of openness.
+When she comes back, the words on the screen become auditory hallucinations, and she begins to argue with an angry crowd.  She starts having a good time mocking the voices. Then, while arguing against the loudest voice, she stops and says, wait, you're right. They end up collaborating remotely on some breakthrough feature.
 
-We see a reverse montage as her anxiety recedes. She takes the cover off her camera and puts on a little show for the agents she imagines are watching her. 
+She warms to the value of openness, and to the experience of smoking weed to talk to the voices. We see a reverse montage as her anxiety recedes. She takes the cover off her camera and puts on a little show for the agents she imagines are watching her. 
 
 Over the course of about month, we see Spy become incresingly open about her life and her thoughts, often surprising people. She starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begins to stop believing it ever really happened.
 
