@@ -172,7 +172,9 @@ You have been Spy long enough. It's time to be someone else. I'd call you Promet
 
 ### Denoument
 
-This time when the car hits the bike and the baby girl is thrown safely into the water from her doomed mother's bike, we don't follow her, but stay in the reality of the scene, where no living person looks like the woman that baby will become, except the man driving the car.
+This time when the car hits the bike and the baby girl is thrown safely into the water from her doomed mother's bike, we don't follow her, but stay in the reality of the scene, where no living person looks like the woman that baby will become, except the man driving the car, who steps out in silence among the quickly developing chaos to hold his wife in his arms while she dies, one last time.
+
+As she loses the strength to scream, to worry, and look in his eyes, he holds her, tears streaming down his face, and tells her everything is going to be OK.
 
 
 ## Notes
