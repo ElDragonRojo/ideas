@@ -18,9 +18,9 @@ Over the course of her short, but intense, career, she has created life-changing
 
 On her way to work, Spy is listening to her favorite radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the evidence fit the crime, until new evidence came to light later, often thanks to new technology.
 
-During a break, a news update talks about a former government agent casually dropping on national news that the government is reading, listening, and watching everything we do, and has been for years. 
+During a break, a news update talks about a former government agent casually dropping on national news that the government is reading, listening, and watching everything we do, and has been for years. Moreover, they are recording it, and the agent implied the government can essentially rewind your network traffic to find out what you've been up to.
 
-She flashes back to her life of travel, and the intimate pictures and sexy chats she's had with her ex-husband. Then she realizes that doesn't matter, because all she would have to do is undress in front of a camera she thought was off but that, for all she knows, is watching her like HAL.
+She flashes back to the intimate pictures and sexy chats she used to have with her ex-husband. Then she realizes that it doesn't matter, because all she would have to do is undress in front of any camera. Even if it says it's off, it could, for all she knows, be watching her like HAL.
 
 Only HAL was a singular foe, while this enemy is a swarm of individual actors with unimaginable collective power, beyond anything else that has ever existed on earth, dwarfing even the Roman Empire. She covers the camera lens, and disables her audio by putting a dummy plug in the microphone jack.[1]
 
@@ -34,9 +34,9 @@ Then the stampede of trolls start, and she is trampled under their criticism. Sh
 
 When she comes back, the words on the screen become auditory hallucinations, and she begins to argue with an angry crowd.  She starts having a good time mocking the voices. Then, while arguing against the loudest voice, she stops and says, wait, you're right. They end up collaborating remotely on some breakthrough feature, and she warms to the value of openness.
 
-We see a reverse montage as her anxiety recedes. She takes the cover off her camera and puts on a little show for the agents she imagines are watching her. More than that, she becomes more open in general. 
+We see a reverse montage as her anxiety recedes. She takes the cover off her camera and puts on a little show for the agents she imagines are watching her. 
 
-Over the course of about month, Spy starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begins to stop believing it ever really happened.
+Over the course of about month, we see Spy become incresingly open about her life and her thoughts, often surprising people. She starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begins to stop believing it ever really happened.
 
 ### Conflict
 
