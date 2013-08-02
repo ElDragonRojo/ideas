@@ -1,26 +1,20 @@
+# Puppets
 _A conspiracy thriller_
 
 ## Summary
 
 By fighting her fate, she played into their hands. The side of Oedipus people forget, retold for the Information Age.
 
-## The Hero
+### Premise
 
 Spy is a brilliant but troubled engineer, half Einstein, half Van Gogh. Hers is a rock star's story, the meteoric and often messy rise of the artist, but in the modern day arena of technology startups on the west coast of the United States.
 
 Over the course of her typically short career, she creates world-changing technology in the name of peace and love, but her anti-authoritarian instincts and strong moral compass conspire to keep her moving, seeding technology projects all over the world.
 
-## Plot Notes
 
-Whether we get to know Spy in detail, or simply leverage the backstory to serve the present drama remains to be seen. I do think the backstory deserves treatment, but it might be too big, and have too many interesting conflicts, to coexist with this story.
+## Story
 
-On the other hand, this is the story of Spy's ultimate fate, against the ultimate foe—at least as told in the present tense of this story. It may be this story ends up as a series of stories, each introducing important conflicts that lead to this exciting conclusion.
-
-Or maybe all this goodness should be boiled down into concentrated storyteling, packing the richness of a saga into the size of a single compressed story.
-
-The first instinct, to reference this rich backstory in the current story, is the middle way, as it keeps the scope as small as possible so it can be tested sooner and, if succesful, developed further.
-
-## Plot
+### Introduction
 
 On her way to work, Spy is listening to her radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the evidence fit the crime, until new evidence came to light later, often thanks to new technology.
 
@@ -44,7 +38,7 @@ We see a reverse montage as her anxiety recedes. She takes the cover off her cam
 
 Over the course of about month, Spy starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begins to stop believing it ever really happened.
 
-## Conflict
+### Conflict
 
 On her way to work, Spy is listening to her radio show on National Public Radio. It's a story about the problem of illegal pornography, and the strange epidemic of high-ranking people in governments and businesses going down for possesing it. Even when they are not convicted, the very accusation is life-destroying and sometimes fatal.
 
@@ -53,6 +47,8 @@ This time the news update is that the world is going bonkers over a government w
 Rather than have an anxiety attack, Spy experiences another back-story related superpower, which is that everything slows down and Spy becomes hyper aware of the details of things. She starts to feel like she can tell the future, but only just, like knowing you're about to lock your keys in the car.
 
 Somehow, the whole thing seemed staged to her, reminiscent of the way psychedelics can make a room feel like a stage setting. The whistleblower's name was right out of her favorite book, _Catch 22_, and the weird double leak felt like the deja vu described in her favorite movie, _The Matrix_.
+
+### Act 1 Curtain
 
 In conversations with her colleagues in Silicon Valley, she starts to wonder out loud if the Internet isn't just some vast conspiracy to get people to put their lives onto the network so they can be monitored. 
 
@@ -78,7 +74,7 @@ People say things like:
 
 * That's not a good idea. I wouldn't mess with the government.
 
-## Act 2
+### Act 2
 
 On her way to work, Spy is listening to her favorite radio show on National Public Radio. It's a collection of stories about people collecting dirt on each other, and it makes Spy realize—in a soliliquey reminiscent of Ira Glass—that if the government wanted to make a case against you, they could edit the evidence to tell any story they want, but you wouldn't have any defense or credibility.
 
@@ -110,7 +106,7 @@ As this is happening, the other friends are dropping, until it gets to the part 
 
 As the meaning of this scene hits her like a nuclear bomb, a massive blast fills the screen with white silence.
 
-## Climax
+### Climax
 
 As the white fades and the silence lifts, Spy hears her favorite radio show, and imagines she's riding her bike to work on a warm summer day. We see the world from her first person view.
 
@@ -138,7 +134,7 @@ And yes, we made your father name you Spy, because that's how little our desire 
 
 Fade to black and the villain laughs mightily, accompanied by the radio host over the PA and everyone else in the room, as Spy collapses and withers.
 
-## Twist
+### Twist
 
 Spy is back on her bike, back listening to her favorite radio show on National Public Radio, and it's all eerily familiar. The same night, every dream, until she started to gain lucidity.
 
@@ -174,15 +170,30 @@ And so, we every action I look to do the agency's will, I took another, more sub
 
 You have been Spy long enough. It's time to be someone else. I'd call you Prometheus, but I think this time, I'll let you pick your own name. Are you ready?
 
-## Denoument
+### Denoument
 
 This time when the car hits the bike and the baby girl is thrown safely into the water from her doomed mother's bike, we don't follow her, but stay in the reality of the scene, where no living person looks like the woman that baby will become, except the man driving the car.
 
-## Plot Devices
+
+## Notes
+
+### Plot Notes
 
 1. At a crucial moment in the future, the foe is able to use their control of Spy's computer to reroute audio in from the microphone jack to the built-in microphone. This can be enabled by the dramatic element of a system update that increases  reliability of the audio system, which will later be recognizable as their incredible reach and control.
 
 2. This point becomes important when the conspiracy is revealed and you are asking yourself why they would commit such a cliched faux pas as giving her that information. 
 
 3. The host of the podcast delivers both the opening and closing story of every show, and turns out to not only be her anonymous collaborator and betrayer, but also to be her savior, having been sneaking information out to her to help her fight, even as he was controlling her for the agency.
+
+
+### Character Notes
+
+Whether we get to know Spy in detail, or simply leverage the backstory to serve the present drama remains to be seen. I do think the backstory deserves treatment, but it might be too big, and have too many interesting conflicts, to coexist with this story.
+
+On the other hand, this is the story of Spy's ultimate fate, against the ultimate foe—at least as told in the present tense of this story. It may be this story ends up as a series of stories, each introducing important conflicts that lead to this exciting conclusion.
+
+Or maybe all this goodness should be boiled down into concentrated storyteling, packing the richness of a saga into the size of a single compressed story.
+
+The first instinct, to reference this rich backstory in the current story, is the middle way, as it keeps the scope as small as possible so it can be tested sooner and, if succesful, developed further.
+
 
