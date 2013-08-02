@@ -16,7 +16,7 @@ Over the course of her short, but intense, career, she has created life-changing
 
 ### Introduction
 
-On her way to work, Spy is listening to her radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the evidence fit the crime, until new evidence came to light later, often thanks to new technology.
+On her way to work, Spy is listening to her favorite radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the evidence fit the crime, until new evidence came to light later, often thanks to new technology.
 
 During a break, a news update talks about a former government agent casually dropping on national news that the government is reading, listening, and watching everything we do, and has been for years. 
 
