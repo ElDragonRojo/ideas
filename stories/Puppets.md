@@ -22,7 +22,7 @@ During a break, a news update talks about a former government agent casually dro
 
 She flashes back to her life of travel, and the intimate pictures and sexy chats she's had with her ex-husband. Then she realizes that doesn't matter, because all she would have to do is undress in front of a camera she thought was off but that, for all she knows, is watching her like HAL.
 
-Only HAL was a singular foe, while this enemy is a swarm of individual actors with unimaginable collective power, beyond anything else that has every existed on earth, dwarfing even the Roman Empire. She covers the camera lens, and disables her audio by putting a dummy plug in the microphone jack.[1]
+Only HAL was a singular foe, while this enemy is a swarm of individual actors with unimaginable collective power, beyond anything else that has ever existed on earth, dwarfing even the Roman Empire. She covers the camera lens, and disables her audio by putting a dummy plug in the microphone jack.[1]
 
 She begins to suffer from anxiety and insomnia, which she is prone to, because of a terrible childhoold culminating in a series of traumatic and life-changing, often near-death events from her past.
 
