@@ -22,11 +22,11 @@ The first instinct, to reference this rich backstory in the current story, is th
 
 ## Plot
 
-On her way to work, Spy is listening to her radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the eviddence fit the crime, until new evidence came to light later, often thanks to new technology.
+On her way to work, Spy is listening to her radio show on National Public Radio. In it, people who were wrongly convicted are reunited with the prosecutors who took away their lives. The recurring theme is that the evidence fit the crime, until new evidence came to light later, often thanks to new technology.
 
 During a break, a news update talks about a former government agent casually dropping on national news that the government is reading, listening, and watching everything we do, and has been for years. 
 
-She flashes back to her life of travel, and the intimate pictures and sexy chats she's had with her ex-husband. Then she realizes that doesn't matter, because she would have to do is undress in front of a camera she thought was off but that, for all she knows, is watching her like HAL.
+She flashes back to her life of travel, and the intimate pictures and sexy chats she's had with her ex-husband. Then she realizes that doesn't matter, because all she would have to do is undress in front of a camera she thought was off but that, for all she knows, is watching her like HAL.
 
 Only HAL was a singular foe, while this enemy is a swarm of individual actors with unimaginable collective power, beyond anything else that has every existed on earth, dwarfing even the Roman Empire. She covers the camera lens, and disables her audio by putting a dummy plug in the microphone jack.[1]
 
@@ -34,47 +34,45 @@ She begins to suffer from anxiety and insomnia, which she is prone to, because o
 
 In order to deal with these feelings, she seeks the advice of her tech-saavy rabbi, who also happens to be her psychiatrist. He doesn't want to upset the delicate balance of meds they have her on, so he suggests she consider something he calls _open source therapy_.
 
-She takes the project that she is the absolute proudest of and puts it on GitHub. At first she's terrified of people's reactions. She gets a compliment and relaxes. Her project picks up steam. She hits #1 on Hacker News and feels great.
+She takes the project that she is the absolute proudest of and makes it open source. At first she's terrified of people's reactions. She gets a compliment and relaxes. Her project picks up steam. She hits #1 on Hacker News and feels great.
 
-Then the stampede of trolls start, and she is trampled under their criticism. The words on the screen become auditory hallucinations, and she begins to argue with an angry crowd. 
+Then the stampede of trolls start, and she is trampled under their criticism. She knows she's not supposed to smoke weed, because it makes her hear voices, but it also calms her down, so in her agony she rolls a joint and goes outside to smoke it.
 
-She knows she's not supposed to smoke weed, because it makes her the voices, but it also calms her down, so in her agony she rolls a joint and goes outside to smoke it.
-
-When she comes back she starts having a good time mocking the voices. Then, while arguing against the loudest voice, she stops and says, wait, you're right. They end up collaborating remotely on some breakthrough feature, and she warms to the value of openness.
+When she comes back, the words on the screen become auditory hallucinations, and she begins to argue with an angry crowd.  She starts having a good time mocking the voices. Then, while arguing against the loudest voice, she stops and says, wait, you're right. They end up collaborating remotely on some breakthrough feature, and she warms to the value of openness.
 
 We see a reverse montage as her anxiety recedes. She takes the cover off her camera and puts on a little show for the agents she imagines are watching her. More than that, she becomes more open in general. 
 
-Over the course of about month, Spy starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begin to stop believing it had ever really happened.
+Over the course of about month, Spy starts to forget about what the former agent said on the news, and since nobody else seemed to care, she begins to stop believing it ever really happened.
 
 ## Conflict
 
 On her way to work, Spy is listening to her radio show on National Public Radio. It's a story about the problem of illegal pornography, and the strange epidemic of high-ranking people in governments and businesses going down for possesing it. Even when they are not convicted, the very accusation is life-destroying and sometimes fatal.
 
-This time the news update is that the world is going bonkers over a government whistleblower, leaking details of the exact worldwide spy program the agent had dropped a month earlier. This time there was a worldwide manhunt, with unprecedented user of government power to pursue this broken arrow to the ends of the earth.
+This time the news update is that the world is going bonkers over a government whistleblower, leaking details of the exact worldwide spy program the agent had dropped a month earlier. This time there was a worldwide manhunt, with unprecedented abuse of government power to pursue this broken arrow PowerPoint to the ends of the earth.
 
-Rather than have anxiety attack, Spy has another back-story related superpower, which is that everything slows down and Spy becomes hyper aware of the details of things. She starts to feel like she can tell the future, but only just, like knowing you're about the lock your keys in the car.
+Rather than have an anxiety attack, Spy experiences another back-story related superpower, which is that everything slows down and Spy becomes hyper aware of the details of things. She starts to feel like she can tell the future, but only just, like knowing you're about to lock your keys in the car.
 
-Somehow, the whole thing seemed staged to her, reminiscent of the way psychedelics can make feel like a stage setting. The whistleblower's name was right out of her favorite book, _Catch 22_, and the wierd double leak felt like deja vu as described in her favorite movie, _The Matrix_.
+Somehow, the whole thing seemed staged to her, reminiscent of the way psychedelics can make a room feel like a stage setting. The whistleblower's name was right out of her favorite book, _Catch 22_, and the weird double leak felt like the deja vu described in her favorite movie, _The Matrix_.
 
-In conversations with her colleagues in Silicon Valley, she starts to wonder out loud if the Internet isn't just some vast conspiracy to get people to put their lives on the network so they can be monitored. 
+In conversations with her colleagues in Silicon Valley, she starts to wonder out loud if the Internet isn't just some vast conspiracy to get people to put their lives onto the network so they can be monitored. 
 
 People say things like:
 
-* It had never made much sense to her that the singularity of peace and love that is the Internet has come from a military project.
+* It never made much sense to me that the Internet, this singularity of peace and love, come from a military project.
 
 * It never made sense that the government would give it to us to use for free, or even for negative money, given that the Internet is not only not taxed, but commonly used to avoid paying sales tax.
 
-* I used the hard drive shredder at work to comepletely destroy my porn collection. I can't risk having anything in there turning to be illegal. You never know. I just can't risk it.
+* I used the hard drive shredder at work to comepletely destroy my porn collection. I can't risk having anything in there turning out to be illegal. You never know. I just can't risk it.
 
-* Not only that, if you have porn, they can slip that stuff in. The only way to defend against being framed is to very clearly establish that you have no porn.
+* Not only that, if you have any porn, they can just slip that stuff in. The only way to defend against being framed is to very clearly establish that you have no porn.
 
 * That might be a little hard to swallow. You would be better off becoming a collector of vintage Playboy magazines. It's more believable than you not looking at porn.
 
 * That's true. If you give them what they're searching for, they'll stop looking for what you have.[2]
 
-* I wonder what they've got on me? I wonder if I could file a Freedom of Information Act request to find out.
+* I wonder what they've got on me? I wonder if I could file a _Freedom of Information Act_ request to find out.
 
-* I'm going to start encrypting everything. It might not matter, but it will slow them down. Especially if I encrypt everything. Make everything look equally suspicious, like Spartacus.
+* I'm going to start encrypting everything. It might not matter, but it will slow them down. Especially if I encrypt everything. Make everything look equally suspicious, like _Spartacus_.
 
 * That's a good idea. I'm going to start looking suspicious more often, just to mess with them.
 
@@ -82,7 +80,7 @@ People say things like:
 
 ## Act 2
 
-On her way to work, Spy is listening to her radio show on National Public Radio. It's a collection of stories about people collecting dirt on each other, and it makes Spy realize—in a soliliquey reminiscent of Ira Glass—that if the government wanted to make a case against you, they could edit the evidence to tell any story they want, but you wouldn't have any defense or credibility.
+On her way to work, Spy is listening to her favorite radio show on National Public Radio. It's a collection of stories about people collecting dirt on each other, and it makes Spy realize—in a soliliquey reminiscent of Ira Glass—that if the government wanted to make a case against you, they could edit the evidence to tell any story they want, but you wouldn't have any defense or credibility.
 
 Spy thinks back on an insurance company that tried to screw her by tampering with the documents, which she was able to defeat by pulling the original documents and showing now only the truth, but evidence of tampering. She realizes that the only solution is to record everything herself.
 
@@ -126,7 +124,7 @@ It's like a dream, but the dream is narrated by the radio program. As she comes 
 
 It is reveal to her that she is a government informant, and that everything she has experienced has been about making happen what just happened, in order to push through some legislation that, together with government honeypots and tough mandatory sentencing, will make it possible to increase the current prison population from 1% to 5%, due to growing demand for this new slave labor.
 
-At first she doesn't want to believe it, and rejects the villain's story, but the villain turns on her favorite radio program, and the host starts talking about her, to her dawning horror, and, just as he seques into music, the villain grabs her, and dances with her, this time as the lead, in the exact dance she had done before.
+At first she doesn't want to believe it, and rejects the villain's story, but the villain turns on the radio, and her favorite radio program from National Public Radio comes on, except the host seems to be talking about her, to her dawning horror, and, just as he seques into music, the villain grabs her, and dances with her, this time as the lead, in the exact dance she had done before.
 
 Once they have her attention, they reveal that they planted the stories knowing she would hear them and make the decisions she did. They only have the ability to store data and sift through it. They don't actually have the capability, legally, technically, or manpower-wise, to record all of that information.
 
@@ -136,13 +134,13 @@ Spy wonders how they knew so much about her, until she realizes the only people 
 
 At first the shrink dawns on her, but then she starts to dismiss the thought, at which point the viilain says, "Of course it was him. We've owned him for years. You would be suprised the kind of twisted evil that forms inside people who deal with other people's darkness for a living.
 
-And yes, we made your father name you Spy, just to rub it in his face when your mother inevitably killed herself, until he inevitably did the same, and because that's how little our desire to laugh at the lot of you thinks of your collective ability to do anything about it, or even to notice.
+And yes, we made your father name you Spy, because that's how little our desire to laugh at the lot of you thinks of your collective ability to do anything about it, or to even notice.
 
-Fade to black and the villain laughs mightily, accopanied by the radio host over the PA and everyone else in the room, and Spy collapses and wither.
+Fade to black and the villain laughs mightily, accompanied by the radio host over the PA and everyone else in the room, as Spy collapses and withers.
 
 ## Twist
 
-Spy is back on her bike, back listening to the radio show, and it's all eerily familiar. The same night, every dream, until she started to gain lucidity.
+Spy is back on her bike, back listening to her favorite radio show on National Public Radio, and it's all eerily familiar. The same night, every dream, until she started to gain lucidity.
 
 She is guided by the voice of the narrator, whose words start to take on symbolic meaning. She starts to pay attention to the details, to read them, to learn things from them, to make intuitivel leaps, and to notice that everyone in the scene has the same face, her face, but they all move their lips with the narration.
 
